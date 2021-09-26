@@ -8,6 +8,7 @@ public class TwoSum {
         this.n = n;
     }
 
+
     @Override
     public String toString() {
         return "TwoSum{" +
